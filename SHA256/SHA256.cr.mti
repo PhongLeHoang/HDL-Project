@@ -1,0 +1,64 @@
+D:/HK6/HDL/Porject_mid_term/SHA256/rtl/instance/message_schedule.v {1 {vlog -work work -vopt -stats=none D:/HK6/HDL/Porject_mid_term/SHA256/rtl/instance/message_schedule.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module message_schedule
+
+Top level modules:
+	message_schedule
+
+} {} {}} D:/HK6/HDL/Porject_mid_term/SHA256/rtl/sha256_core.v {1 {vlog -work work -vopt -stats=none D:/HK6/HDL/Porject_mid_term/SHA256/rtl/sha256_core.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module sha256_core
+
+Top level modules:
+	sha256_core
+
+} {} {}} D:/HK6/HDL/Porject_mid_term/SHA256/testbench/tb_sha256_axi.v {1 {vlog -work work -vopt -stats=none D:/HK6/HDL/Porject_mid_term/SHA256/testbench/tb_sha256_axi.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_sha256_axi4_lite
+
+Top level modules:
+	tb_sha256_axi4_lite
+
+} {} {}} D:/HK6/HDL/Porject_mid_term/SHA256/rtl/instance/compression.v {1 {vlog -work work -vopt -stats=none D:/HK6/HDL/Porject_mid_term/SHA256/rtl/instance/compression.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module compression
+
+Top level modules:
+	compression
+
+} {} {}} D:/HK6/HDL/Porject_mid_term/SHA256/rtl/instance/k_constants.v {1 {vlog -work work -vopt -stats=none D:/HK6/HDL/Porject_mid_term/SHA256/rtl/instance/k_constants.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module k_constants
+
+Top level modules:
+	k_constants
+
+} {} {}} D:/HK6/HDL/Porject_mid_term/SHA256/rtl/sha256_avalon_slave.v {1 {vlog -work work -vopt -stats=none D:/HK6/HDL/Porject_mid_term/SHA256/rtl/sha256_avalon_slave.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module sha256_avalon_slave
+
+Top level modules:
+	sha256_avalon_slave
+
+} {} {}} D:/HK6/HDL/Porject_mid_term/SHA256/rtl/instance/counter.v {1 {vlog -work work -vopt -stats=none D:/HK6/HDL/Porject_mid_term/SHA256/rtl/instance/counter.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} D:/HK6/HDL/Porject_mid_term/SHA256/testbench/tb_sha256_avalon.v {1 {vlog -work work -vopt -stats=none D:/HK6/HDL/Porject_mid_term/SHA256/testbench/tb_sha256_avalon.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_sha256_avalon
+
+Top level modules:
+	tb_sha256_avalon
+
+} {} {}} D:/HK6/HDL/Porject_mid_term/SHA256/testbench/tb_sha256_core.v {1 {vlog -work work -vopt -stats=none D:/HK6/HDL/Porject_mid_term/SHA256/testbench/tb_sha256_core.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_sha256_core
+
+Top level modules:
+	tb_sha256_core
+
+} {} {}}
